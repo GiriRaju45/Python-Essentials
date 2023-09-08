@@ -1,4 +1,4 @@
-# Python programs
+# Python Essentials
 ## Programs on basics of Python.
 
 
